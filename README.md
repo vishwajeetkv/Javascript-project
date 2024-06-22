@@ -1,2 +1,2 @@
 # Javascript-project
-Projects
+Projects using HTML , CSS & JS
